@@ -31,14 +31,14 @@ var icons = [
 ]
 
 var splashes = [
-  {"name":"Default@2x~iphone~anyany.png": "1334x1334"},
-  {"name":"Default@2x~iphone~comany.png": "750x1334"},
-  {"name":"Default@2x~iphone~comcom.png": "1334x750"},
-  {"name":"Default@3x~iphone~anyany.png": "2208x2208"},
-  {"name":"Default@3x~iphone~anycom.png": "2208x1242"},
-  {"name":"Default@3x~iphone~comany.png": "1242x2208"},
-  {"name":"Default@2x~ipad~anyany.png": "2732x2732"},
-  {"name":"Default@2x~ipad~comany.png": "1278x2732"},
+  {"name":"Default@2x~iphone~anyany.png","size":"1334x1334"},
+  {"name":"Default@2x~iphone~comany.png","size":"750x1334"},
+  {"name":"Default@2x~iphone~comcom.png","size":"1334x750"},
+  {"name":"Default@3x~iphone~anyany.png","size":"2208x2208"},
+  {"name":"Default@3x~iphone~anycom.png","size":"2208x1242"},
+  {"name":"Default@3x~iphone~comany.png","size":"1242x2208"},
+  {"name":"Default@2x~ipad~anyany.png","size":"2732x2732"},
+  {"name":"Default@2x~ipad~comany.png","size":"1278x2732"},
   {"name":"iphone","size":"320x480"},
   {"name":"iphone_2x","size":"640x960"},
   {"name":"iphone5","size":"640x1136"},
